@@ -44,9 +44,9 @@ title = 'ReefVolt Aquarium Controllers'
 
     [params.social]
         github = "blueacro"        # YOUR_GITHUB_ID or YOUR_GITHUB_URL
-        #twitter = "blue_acro"       # YOUR_TWITTER_ID
+        twitter = "blue_acro"       # YOUR_TWITTER_ID
         # instagram = "colinwilson"     # YOUR_INSTAGRAM_ID
-        # rss = true                    # show rss icon with link
+        rss = true                    # show rss icon with link
 
     [params.docs] # Parameters for the /docs 'template'
         title           = "Reef Volt Aquarium Controller"           # default html title for documentation pages/sections
@@ -138,7 +138,7 @@ title = 'ReefVolt Aquarium Controllers'
 
 [menu]
 [[menu.primary]]
-    name  = "Docs"
+    name  = "Learn More"
     url = "docs/"
     identifier = "docs"
     weight = 10
