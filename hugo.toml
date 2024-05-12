@@ -1,6 +1,7 @@
 baseURL = 'https://reefvolt.com/'
 languageCode = 'en-us'
 title = 'ReefVolt Aquarium Controllers'
+googleAnalytics = "G-8KQXET4RRZ"
 
 [module]
     replacements = "github.com/colinwilson/lotusdocs -> lotusdocs"

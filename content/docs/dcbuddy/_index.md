@@ -1,7 +1,7 @@
 ---
 weight: 1900
-title: "DCBuddy Hardware"
-description: "DCBuddy Hardware Guide"
+title: "DCBuddy Power Center"
+description: "DCBuddy Power Center"
 icon: settings
 lead: ""
 date: 2024-04-11T02:21:15+00:00
