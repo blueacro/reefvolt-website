@@ -29,7 +29,7 @@ hero:
 
   image:
     path: "images/hero" # path to image under configured assets directory. default 'images'
-    filename: "v2_pcb.png" # filename of your hero image (including file extension)
+    filename: "dcb-sell.jpg" # filename of your hero image (including file extension)
     alt: "Hero Image" # Optional but recommended
     boxShadow: true # default 'false' (excludes .svg images)
     rounded: true # round the image corners? default 'false' (excludes .svg images)
