@@ -23,8 +23,7 @@ Each DCBuddy can replace up to 7 AC-DC power adapters or bricks at one voltage
 (either 12V, 24, 32V or 36V) using one large, industrial power supply (power
 supply not included). 
 
-{{< alert context="info" text="The upcoming DCBuddy Split supports 4 outlets at the input
-voltage, and 3 outlets at a fixed 12V or 24V (configurable with a jumper)." />}}
+{{< alert context="info" text="The upcoming DCBuddy Split supports 4 outlets at the input voltage, and 3 outlets at a fixed 12V or 24V (configurable with a jumper)." />}}
 
 
 For example, the following equipment is well suited with DCBuddy:
@@ -41,8 +40,7 @@ The voltage chosen depends on the equipment you are powering:
 - Larger DC pumps are 36V (Vectra, main return pumps)
 
 
-{{< alert context="info" text="All ports of this model will operate at the same
-voltage - please ensure the compatibility and use the right supply. " />}}
+{{< alert context="info" text="All ports of this model will operate at the same voltage - please ensure the compatibility and use the right supply. " />}}
 
 ## Features and Specifications
 
