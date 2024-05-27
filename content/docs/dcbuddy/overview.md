@@ -1,6 +1,6 @@
 ---
 weight: 1900
-title: "Overview of DCBuddy"
+title: "Overview"
 description: "Overview of the DCBuddy Aquarium Power Controller"
 lead: ""
 date: 2024-04-11T02:21:15+00:00
@@ -13,12 +13,19 @@ Safely replace multiple AC-DC power bricks for VorTech, Gyre, ReefWave, Protein
 Skimmers and other DC pumps and loads in your aquarium with the DCBuddy. DCBuddy
 is compatible with 12V, 24V, 32V and 36V equipment.
 
-Works with Home Assistant. Per-port power control and current monitoring.
+DCBuddy works with Home Assistant directly as its powered by
+[ESPHome](https://esphome.io) firmware, which can be quickly customized by the
+end user and re-flashed. ESPHome firmware is mostly written in a delcarative
+style (no volumes of C, C++ or Python) meaning its easy to re-map or adjust
+features.
 
 Each DCBuddy can replace up to 7 AC-DC power adapters or bricks at one voltage
 (either 12V, 24, 32V or 36V) using one large, industrial power supply (power
-supply not included). The DCBuddy Split supports 4 outlets at the input voltage,
-and 3 outlets at a fixed 12V or 24V (configurable with a jumper).
+supply not included). 
+
+{{< alert context="info" text="The upcoming DCBuddy Split supports 4 outlets at the input
+voltage, and 3 outlets at a fixed 12V or 24V (configurable with a jumper)." />}}
+
 
 For example, the following equipment is well suited with DCBuddy:
 - DC pumps, such as Gyres, Vortechs, etc
@@ -33,8 +40,9 @@ The voltage chosen depends on the equipment you are powering:
 - Some DC pumps are 32V (VorTech MP40wQD) and will also operate at 24V, but may not reach 100% peak flow.
 - Larger DC pumps are 36V (Vectra, main return pumps)
 
-All ports of this model will operate at the same voltage - please ensure the
-compatibility and use the right supply. 
+
+{{< alert context="info" text="All ports of this model will operate at the same
+voltage - please ensure the compatibility and use the right supply. " />}}
 
 ## Features and Specifications
 
@@ -67,7 +75,3 @@ Power Inputs:
 - DIN-4 Power Input (for Meanwell OWA power supplies)
 - Molex Micro-Fit 3.0 8-pin DC+CANbus input (for Battery, 32V, and Hub addons),
   also features a terminal block adapter accessory
-
-## Notes
-
-Note this product is currently sold as early access (meaning some features may be changed or require firmware updates to function), and is shipping in batches as we receive more inventory from our manufacturer. We will do our best to update this page with batches and ship dates - if in doubt, please reach out.
