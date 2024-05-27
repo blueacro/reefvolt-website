@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 1902
 title: "DCBuddy Regulatory and Safety Notice"
 description: "DCBuddy Regulatory and Safety Notice"
 lead: ""
