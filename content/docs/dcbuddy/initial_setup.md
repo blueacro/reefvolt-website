@@ -93,4 +93,14 @@ the same network.
 
 TODO: More docs
 
+## Accessing the DCBuddy local interface
+
+DCBuddy runs a local web server which you can access locally without needing to
+use Home Assistant. By default, you can connect using the name:
+
+[http://dcbuddy.local](http://dcbuddy.local)
+
+If your network doesn't use mDNS or the above doesn't work, DCBuddy will display
+its IP address on the OLED display on the bottom right. Connect to it by
+entering `http://` followed by the IP address in your browser.
 
