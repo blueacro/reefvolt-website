@@ -58,8 +58,8 @@ DCBuddy, when new or when it cannot connect to a WiFi network, will start its
 own WiFi network with a "captive portal" allowing you to configure the WiFi
 network used.
 
-*Network name:* DCBuddy Fallback Hotspot
-*Password:* password
+- **Network name:** DCBuddy Fallback Hotspot
+- **Password:** password
 
 Once you have connected your phone or computer to this network, visit: 
 
